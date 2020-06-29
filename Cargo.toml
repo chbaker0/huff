@@ -1,0 +1,8 @@
+[package]
+name = "huff"
+version = "0.1.0"
+authors = ["Collin <chbaker0@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bv = "0.11.1"
